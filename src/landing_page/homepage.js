@@ -16,9 +16,9 @@ const HomePage = () => {
       />
 
       {/* Hero Text */}
-      <div className="absolute inset-0 flex flex-col mt-16 max-w-screen-2xl mx-auto justify-center h-auto"
+      <div className="absolute inset-0 flex flex-col mt-40 md:mt-16 max-w-screen-2xl mx-auto md:justify-center h-auto"
       >
-        <p className="text-white text-xl md:text-2xl lg:text-[4rem] px-4 max-w-6xl font-medium leading-loose tracking-wide h-auto"
+        <p className="text-white text-[2rem] md:text-2xl lg:text-[4rem] px-4 max-w-6xl font-medium leading-loose tracking-wide h-auto"
         style={{ lineHeight: '1.15' }}>
           Young Freed Delivered (YFD) is a community of young believers who are
           passionate about living their faith, growing together, and sharing the
